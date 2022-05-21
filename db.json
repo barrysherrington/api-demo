@@ -1,0 +1,37 @@
+{
+      events: [
+        {
+          id: 765988,
+          category: 'animal welfare',
+          title: 'Cat Adoption Day',
+          description: 'Find your new feline friend.',
+          location: 'Meow Town',
+          date: 'January 28, 2023',
+          time: '12:00',
+          petsAllowed: true,
+          organiser: 'Kat Laydee'
+        },
+        {
+          id: 765989,
+          category: 'food',
+          title: 'Meal Out',
+          description: 'Eat out init.',
+          location: 'Some Town',
+          date: 'Feburary 12, 2023',
+          time: '11:00',
+          petsAllowed: false,
+          organiser: 'Dave Foodie'
+        },
+        {
+          id: 765990,
+          category: 'sport',
+          title: 'Wigan Rugby',
+          description: 'Wigan v Saints at DW Stadium.',
+          location: 'Wigan',
+          date: 'January 17, 2023',
+          time: '20:00',
+          petsAllowed: false,
+          organiser: 'Jimmy Nail'
+        }
+      ]
+    }
